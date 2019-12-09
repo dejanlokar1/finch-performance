@@ -1,4 +1,4 @@
-Tested on an AWS c5.xlarge instance with both server and WRK2 installed.
+Tested on an AWS c5.xlarge instance with both server (java 8) and WRK2 installed. 
 ## Finagle
 ### CURL
 ```
